@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(85,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(127,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(129,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(132,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(134,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(137,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(139,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(278,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(287,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(324,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(397,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(443,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(451,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(529,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\Triangulation\Triangulation\Triangulation.h(530,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Triangulation.vcxproj -> C:\Users\acer\source\repos\Triangulation\x64\Debug\Triangulation.exe
